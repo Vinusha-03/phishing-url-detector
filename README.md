@@ -120,3 +120,10 @@ Never enter sensitive information on an unfamiliar website just because this too
 **Vinusha Dmello**
 
 GitHub: https://github.com/Vinusha-03
+## 📸 Screenshots
+
+### Lower Risk URL Detection
+![Lower Risk Result](lower-risk-result.png)
+
+### Higher Risk URL Detection
+![Higher Risk Result](higher-risk-result.png)
